@@ -13,6 +13,13 @@ const cats = [
     
 ];
 
+//Question 1 DONE
+var cat = {
+    complain(Meow) {
+        console.log("meow")
+    },
+}
+console.log("meow");
 
 
 
@@ -22,6 +29,7 @@ heading.innerHTML = "Updated Heading";
 heading.style.fontSize = "2em"
 
 //Question 4 
+
 
 
 //Question 5          DONE
@@ -37,8 +45,13 @@ resultsContainer.innerHTML = "New Paragraph";
 resultsContainer.style.backgroundColor = "yellow"
 
 
-//Question 7
+//Question 7 not done
 function name(list) {
+    
+}
+
+//Question 8 
+function creatCats(cats) {
     
 }
 
