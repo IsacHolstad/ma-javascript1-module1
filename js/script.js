@@ -23,12 +23,11 @@ console.log("meow");
 
 
 
-//Question 2 and 3        DONE
+//Question 2,3 and 4      DONE
 const heading = document.querySelector("h3");
 heading.innerHTML = "Updated Heading";
 heading.style.fontSize = "2em"
-
-//Question 4 
+heading.classList.add("subheading");
 
 
 
@@ -45,15 +44,22 @@ resultsContainer.innerHTML = "New Paragraph";
 resultsContainer.style.backgroundColor = "yellow"
 
 
-//Question 7 not done
+//Question 7         DONE
 function name(list) {
-    
+    var list = ["list"]
+    console.log(name)
+   
 }
+console.log(cats)
 
-//Question 8 
+//Question 8 i dont understand and cant figure it out
 function creatCats(cats) {
+    var creatCats = ["cats"]
+   
     
-}
+    
+};
+console.log(cats)
 
 
 
